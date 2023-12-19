@@ -1,0 +1,5 @@
+ID	Name		Math Physic Chemis
+A001	Le Van Hoa	8	7.5	8
+A002	Ho Ngoc Hoa	6	7	8
+A003	Vo Ngoc Dat	3	3	3.5
+A004	Tran Le Nam	5	5	4
