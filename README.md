@@ -1,0 +1,2 @@
+# Python 
+`JUST FOR STORAGE` 
